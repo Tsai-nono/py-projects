@@ -1,0 +1,107 @@
+4 4
+f y c l
+i o m g
+o r i l
+h j h u
+
+>>>>>>>
+star boggle.py
+setting end
+execution time: 0.8324215412139893
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.0030286312103271484
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.013407230377197266
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.015620946884155273
+
+>>>>>>>
+star boggle.py
+setting end
+execution time: 0.9333608150482178
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.01715540885925293
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.014034509658813477
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.021406173706054688
+
+>>>>>>>
+star boggle.py
+setting end
+execution time: 0.8453919887542725
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.015631675720214844
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.00537419319152832
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.01787853240966797
+
+>>>>>>>
+star boggle.py
+setting end
+execution time: 0.48351502418518066
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.029856204986572266
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.029763221740722656
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.026382923126220703
+
+>>>>>>>
+star boggle.py
+setting end
+execution time: 0.4674532413482666
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.029103755950927734
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.02892279624938965
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.028070688247680664
+
+>>>>>>>
+star boggle.py
+setting end
+execution time: 0.4720735549926758
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.016913414001464844
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.030918598175048828
+
+21
+['firm', 'form', 'foil', 'coif', 'coir', 'corm', 'coil', 'moor', 'moil', 'miri', 'giro', 'glim', 'roil', 'roof', 'roomy', 'room', 'rimy', 'iglu', 'limy', 'limo', 'hoof']
+execution time: 0.03004765510559082
